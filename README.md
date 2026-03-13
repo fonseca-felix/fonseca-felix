@@ -15,11 +15,13 @@ Bem-vindo ao meu cantinho no GitHub, onde a lógica encontra a criatividade.
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="REST API" height="40" width="100" src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge&logo=postman&logoColor=white">
 </div>
 
 ## 🧪 Sempre aprendendo
 
-Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, claro, cometer erros para aprender com eles. Acredito que a melhor forma de evoluir é colocando a mão no código e experimentando.
+Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, claro, cometer erros para aprender com eles. Acredito que a melhor forma de evoluir é colocando a mão no código e experimentando. Atualmente, busco aprofundar meus conhecimentos em arquitetura **REST** e gerenciamento de dados com **MySQL**.
 
 ## 📜 Um verso para programar e viver
 
@@ -41,7 +43,6 @@ E no fluxo desse compilar,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonseca-felix&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
-
 
 ## 📫 Contato
 
