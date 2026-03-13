@@ -32,6 +32,17 @@ cheia de loops e emoção.
 E no fluxo desse compilar,  
 é aprendendo que sigo a programar.
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fonseca-felix&show_icons=true&theme=radical" alt="Felix GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonseca-felix&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felix.fonseca.senai@gmail.com)
