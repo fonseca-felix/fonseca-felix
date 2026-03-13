@@ -5,7 +5,7 @@ Bem-vindo ao meu cantinho no GitHub, onde a lógica encontra a criatividade.
 ## 🧑‍💻 Sobre mim
 
 - 💻 Estudante de **Desenvolvimento de Sistemas (DS)** no **SESI SENAI**.
-- 🚀 Explorando o universo da programação com foco em **back-end** e **front-end**.
+- 🚀 Explorando o universo da programação com foco em **Full-Stack** (Back-end e Front-end).
 - ⚙️ Tecnologias que domino e estou sempre aprimorando:
 
 <div style="display: inline_block"><br>
@@ -13,6 +13,7 @@ Bem-vindo ao meu cantinho no GitHub, onde a lógica encontra a criatividade.
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -21,7 +22,7 @@ Bem-vindo ao meu cantinho no GitHub, onde a lógica encontra a criatividade.
 
 ## 🧪 Sempre aprendendo
 
-Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, claro, cometer erros para aprender com eles. Acredito que a melhor forma de evoluir é colocando a mão no código e experimentando. Atualmente, busco aprofundar meus conhecimentos em arquitetura **REST** e gerenciamento de dados com **MySQL**.
+Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, claro, cometer erros para aprender com eles. Acredito que a melhor forma de evoluir é colocando a mão no código e experimentando. Atualmente, foco em criar interfaces dinâmicas com **React** e integrar com APIs robustas.
 
 ## 📜 Um verso para programar e viver
 
