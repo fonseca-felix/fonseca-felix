@@ -35,19 +35,31 @@ cheia de loops e emoção.
 E no fluxo desse compilar,  
 é aprendendo que sigo a programar.
 
-### 📊 GitHub Stats
+# 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fonseca-felix&show_icons=true&theme=radical" alt="Felix GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonseca-felix&show_icons=true&theme=radical" alt="Joaquim GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonseca-felix&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonseca-felix&layout=compact&theme=radical" alt="Top Langs"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=fonseca-felix&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 📫 Contato
+---
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felix.fonseca.senai@gmail.com)
+# 🌎 Conecte-se comigo
+
+<p align="center">
+  <a href="https://github.com/fonseca-felix" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/felix-fonseca-a0a684364/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felix.fonseca.senai@gmail.com)
+</a>
+</p>
 
 ---
 
