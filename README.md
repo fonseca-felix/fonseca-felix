@@ -1,16 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=shining&color=8833ff&height=200&section=header&text=Olá,%20eu%20sou%20o%20Félix!%20👋&fontSize=50&animation=twinkle&fontAlignY=38" />
+# <img src="https://capsule-render.vercel.app/render?type=thicker&color=8833ff&height=100&section=header&text=Olá,%20eu%20sou%20o%20Félix!%20👋&fontSize=40&animation=fadeIn" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BF5AF2&center=true&vCenter=true&width=500&lines=Lógica+meets+Creativity;Estudante+de+Sistemas+(DS);Full-Stack+Developer;Explorando+o+Universo+Python+&+React" alt="Typing SVG" />
-</div>
+Bem-vindo ao meu cantinho no GitHub, onde a **lógica encontra a criatividade**.
 
 ## 🧑‍💻 Sobre mim
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BF5AF2&width=435&lines=Estudante+de+Sistemas+(DS);Focado+em+Full-Stack;Explorando+novas+tecnologias" alt="Typing SVG" />
+</div>
 
 - 💻 Estudante de **Desenvolvimento de Sistemas (DS)** no **SESI SENAI**.
 - 🚀 Explorando o universo da programação com foco em **Full-Stack** (Back-end e Front-end).
 - ⚙️ Tecnologias que domino e estou sempre aprimorando:
 
-<div align="center">
+<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
@@ -28,7 +30,7 @@ Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, clar
 
 ## 📜 Um verso para programar e viver
 
-> [!IMPORTANT]
+> [!TIP]
 > **Entre linhas de código e café,** > **vou construindo o que sonhei.** > **Cada erro é um degrau,** > **cada acerto, um farol.** > **A vida é um sistema em execução,** > **cheia de loops e emoção.** > **E no fluxo desse compilar,** > **é aprendendo que sigo a programar.**
 
 # 📊 Estatísticas do GitHub
@@ -46,17 +48,15 @@ Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, clar
 
 # 🌎 Conecte-se comigo
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/fonseca-felix" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Aventureiro%20por%20natureza%2C%20desenvolvedor%20por%20paixão.-8833ff?style=flat-square&logo=ghost&logoColor=white" />
-</div>
+⭐️ <img src="https://img.shields.io/badge/Aventureiro%20por%20natureza%2C%20desenvolvedor%20por%20paixão.-8833ff?style=flat-square" />
