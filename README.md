@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8833ff&height=150&section=header&text=Júllia&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8833ff&height=150&section=header&text=Félix%20Fonseca&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
 Bem-vindo ao meu cantinho no GitHub, onde a **lógica encontra a criatividade**.
@@ -7,7 +7,7 @@ Bem-vindo ao meu cantinho no GitHub, onde a **lógica encontra a criatividade**.
 ## 🧑‍💻 Sobre mim
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8833ff&width=435&lines=Estudante+de+Sistemas+(DS);Focado+em+Full-Stack;Explorando+novas+tecnologias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&size=20&pause=1000&color=8833ff&width=435&lines=Estudante+de+Sistemas+(DS);Focado+em+Full-Stack;Explorando+novas+tecnologias" alt="Typing SVG" />
 </div>
 
 - 💻 Estudante de **Desenvolvimento de Sistemas (DS)** no **SESI SENAI**.
@@ -33,14 +33,21 @@ Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, clar
 ## 📜 Um verso para programar e viver
 
 > [!TIP]
-> **Entre linhas de código e café,** > **vou construindo o que sonhei.** > **Cada erro é um degrau,** > **cada acerto, um farol.** > **A vida é um sistema em execução,** > **cheia de loops e emoção.** > **E no fluxo desse compilar,** > **é aprendendo que sigo a programar.**
+> **Entre linhas de código e café,**
+> **vou construindo o que sonhei.**
+> **Cada erro é um degrau,**
+> **cada acerto, um farol.**
+> **A vida é um sistema em execução,**
+> **cheia de loops e emoção.**
+> **E no fluxo desse compilar,**
+> **é aprendendo que sigo a programar.**
 
 ---
 
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonseca-felix&show_icons=true&theme=radical&hide_border=true&title_color=8833ff&icon_color=8833ff" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonseca-felix&show_icons=true&theme=radical&hide_border=true&title_color=8833ff&icon_color=8833ff" alt="Félix GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonseca-felix&layout=compact&theme=radical&hide_border=true&title_color=8833ff" alt="Top Langs"/>
 </p>
 
