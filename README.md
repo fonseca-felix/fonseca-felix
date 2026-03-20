@@ -6,10 +6,6 @@ Bem-vindo ao meu cantinho no GitHub, onde a **lógica encontra a criatividade**.
 
 ## 🧑‍💻 Sobre mim
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&size=20&pause=1000&color=8833ff&width=435&lines=Estudante+de+Sistemas+(DS);Focado+em+Full-Stack;Explorando+novas+tecnologias" alt="Typing SVG" />
-</div>
-
 - 💻 Estudante de **Desenvolvimento de Sistemas (DS)** no **SESI SENAI**.
 - 🚀 Explorando o universo da programação com foco em **Full-Stack** (Back-end e Front-end).
 - ⚙️ Tecnologias que domino e estou sempre aprimorando:
