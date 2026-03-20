@@ -1,10 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8833ff&height=150&section=header&text=Júllia&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</div>
 
 Bem-vindo ao meu cantinho no GitHub, onde a **lógica encontra a criatividade**.
 
 ## 🧑‍💻 Sobre mim
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BF5AF2&width=435&lines=Estudante+de+Sistemas+(DS);Focado+em+Full-Stack;Explorando+novas+tecnologias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8833ff&width=435&lines=Estudante+de+Sistemas+(DS);Focado+em+Full-Stack;Explorando+novas+tecnologias" alt="Typing SVG" />
 </div>
 
 - 💻 Estudante de **Desenvolvimento de Sistemas (DS)** no **SESI SENAI**.
@@ -25,24 +28,19 @@ Bem-vindo ao meu cantinho no GitHub, onde a **lógica encontra a criatividade**.
 
 ## 🧪 Sempre aprendendo
 
-Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, claro, cometer erros para aprender com eles. Acredito que a melhor forma de evoluir é colocando a mão no código e experimentando. Atualmente, foco em criar interfaces dinâmicas com **React** e integrar com APIs robustas.
+Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, claro, cometer erros para aprender com eles. Atualmente, foco em criar interfaces dinâmicas com **React** e integrar com APIs robustas.
 
 ## 📜 Um verso para programar e viver
 
 > [!TIP]
-> **Entre linhas de código e café,**
-> **vou construindo o que sonhei.**
-> **Cada erro é um degrau,**
-> **cada acerto, um farol.**
-> **A vida é um sistema em execução,**
-> **cheia de loops e emoção.**
-> **E no fluxo desse compilar,**
-> **é aprendendo que sigo a programar.**
+> **Entre linhas de código e café,** > **vou construindo o que sonhei.** > **Cada erro é um degrau,** > **cada acerto, um farol.** > **A vida é um sistema em execução,** > **cheia de loops e emoção.** > **E no fluxo desse compilar,** > **é aprendendo que sigo a programar.**
+
+---
 
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonseca-felix&show_icons=true&theme=radical&hide_border=true&title_color=8833ff&icon_color=8833ff" alt="Félix GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonseca-felix&show_icons=true&theme=radical&hide_border=true&title_color=8833ff&icon_color=8833ff" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonseca-felix&layout=compact&theme=radical&hide_border=true&title_color=8833ff" alt="Top Langs"/>
 </p>
 
@@ -63,6 +61,10 @@ Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, clar
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8833ff&height=120&section=footer&animation=twinkle" width="100%"/>
+</div>
 
-⭐️ <img src="https://img.shields.io/badge/Aventureiro%20por%20natureza%2C%20desenvolvedor%20por%20paixão.-8833ff?style=flat-square" />
+<div align="center">
+  ⭐️ <img src="https://img.shields.io/badge/Aventureiro%20por%20natureza%2C%20desenvolvedor%20por%20paixão.-8833ff?style=flat-square" />
+</div>
