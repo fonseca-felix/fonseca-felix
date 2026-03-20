@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="Felix Fonseca Banner" />
+</div>
+
 # <img src="https://capsule-render.vercel.app/render?type=thicker&color=8833ff&height=100&section=header&text=Olá,%20eu%20sou%20o%20Félix!%20👋&fontSize=40&animation=fadeIn" />
 
 Bem-vindo ao meu cantinho no GitHub, onde a **lógica encontra a criatividade**.
@@ -31,7 +35,14 @@ Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, clar
 ## 📜 Um verso para programar e viver
 
 > [!TIP]
-> **Entre linhas de código e café,** > **vou construindo o que sonhei.** > **Cada erro é um degrau,** > **cada acerto, um farol.** > **A vida é um sistema em execução,** > **cheia de loops e emoção.** > **E no fluxo desse compilar,** > **é aprendendo que sigo a programar.**
+> **Entre linhas de código e café,**
+> **vou construindo o que sonhei.**
+> **Cada erro é um degrau,**
+> **cada acerto, um farol.**
+> **A vida é um sistema em execução,**
+> **cheia de loops e emoção.**
+> **E no fluxo desse compilar,**
+> **é aprendendo que sigo a programar.**
 
 # 📊 Estatísticas do GitHub
 
