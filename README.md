@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="banner.png" width="100%" alt="Felix Fonseca Banner" />
-</div>
 
 Bem-vindo ao meu cantinho no GitHub, onde a **lógica encontra a criatividade**.
 
