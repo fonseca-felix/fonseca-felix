@@ -42,10 +42,6 @@ Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, clar
 
 # 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonseca-felix&show_icons=true&theme=radical&hide_border=true&title_color=8833ff&icon_color=8833ff" alt="Félix GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonseca-felix&layout=compact&theme=radical&hide_border=true&title_color=8833ff" alt="Top Langs"/>
-</p>
 
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=fonseca-felix&theme=radical&hide_border=true&stroke=8833ff&ring=8833ff&fire=8833ff" alt="GitHub Streak" />
