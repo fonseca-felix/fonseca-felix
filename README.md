@@ -31,12 +31,12 @@ Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, clar
 > [!TIP]
 > **Entre linhas de código e café,**<br>
 > **vou construindo o que sonhei.**<br>
-> **Cada erro é um degrau,**
-> **cada acerto, um farol.**
-> **A vida é um sistema em execução,**
-> **cheia de loops e emoção.**
-> **E no fluxo desse compilar,**
-> **é aprendendo que sigo a programar.**
+> **Cada erro é um degrau,**<br>
+> **cada acerto, um farol.**<br>
+> **A vida é um sistema em execução,**<br>
+> **cheia de loops e emoção.**<br>
+> **E no fluxo desse compilar,**<br>
+> **é aprendendo que sigo a programar.**<br>
 
 ---
 
