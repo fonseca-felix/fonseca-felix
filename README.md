@@ -29,8 +29,8 @@ Gosto de me aventurar em novos projetos, explorar tecnologias diferentes e, clar
 ## 📜 Um verso para programar e viver
 
 > [!TIP]
-> **Entre linhas de código e café,**
-> **vou construindo o que sonhei.**
+> **Entre linhas de código e café,**<br>
+> **vou construindo o que sonhei.**<br>
 > **Cada erro é um degrau,**
 > **cada acerto, um farol.**
 > **A vida é um sistema em execução,**
